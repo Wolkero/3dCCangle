@@ -10,7 +10,7 @@ This is the accompanying respository for the paper "Application of 3d human mesh
 
 2. Read the instructions of get_angle.py to calculate the total-camptocormia angle.
 
-3. To view the output in ([link] (https://www.blender.org)) use the tofbx.py conversion script in this respsitory (adapted from VIBE ([link](https://github.com/mkocabas/VIBE/blob/master/lib/utils/fbx_output.py)) and modified.
+3. To view the output in blender (https://www.blender.org) use the to_fbx.py conversion script in this respsitory (adapted from VIBE ([link](https://github.com/mkocabas/VIBE/blob/master/lib/utils/fbx_output.py)) and modified.
 
 # Citation
 
