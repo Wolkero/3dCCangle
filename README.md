@@ -2,7 +2,7 @@
 
 This is the accompanying respository for the paper "Application of 3d human mesh recovery for the clinical documentation of Camptocormia" by Wolke et al. The original pictures used to evaluate the approach for the estimation of the cmaptocormia bending angle as described in "Consensus for the measurement of the camptocormia angle in the standing patient" ([link](https://pubmed.ncbi.nlm.nih.gov/29907329/)) are not available due to data protection policy. The following code as evaluated using a Ubuntu 22.04 machine with an Nividia GTX 1050 8GB GPU.
 
-![Figure1_.png]
+![Figure 1](Figure1_.png)
 
 # How to apply
 
