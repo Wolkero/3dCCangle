@@ -10,6 +10,7 @@ This is the accompanying respository for the paper "Application of 3d human mesh
 
 3. To view the output in blender (link blender) use the tofbx.py conversion script in this respsitory (adapted from VIBE ([link](https://github.com/mkocabas/VIBE/blob/master/lib/utils/fbx_output.py)) and modified.
 
+#Citation
 
 If you find this work helpful please cite the following paper 
 ```
