@@ -1,15 +1,12 @@
 # Application of 3d human mesh recovery for the clinical documentation of Camptocormia
 
-This is the
+This is the accompanying respository for the paper "Application of 3d human mesh recovery for the clinical documentation of Camptocormia" by Wolke et al. The original pictures used to evaluate the approach for the estimation of the cmaptocormia bending angle as described in ([link](https://pubmed.ncbi.nlm.nih.gov/29907329/)) are not available due to data protection policy.
 
-## Run
+# How to apply
 
-1. clone the respository XXXX. and follow the instructions.
-```
-python 
+1. Clone the respository ([link](https://github.com/mkocabas/PARE)) and follow the instructions to run the algorithm.
 
-```
-2. Run get_angle.py to calculate the Total-CC angle.
+2. Read the instructions
 
 ```
 python 
@@ -22,9 +19,20 @@ python
 ```
 
 If you find this work helpful please cite the following paper XXX
-
-As this projects technically relies heavily on PARE please cite also XXX
-
+```
 
 
-
+```
+As this projects technically relies heavily on PARE please cite also
+```
+@inproceedings{Kocabas_PARE_2021,
+  title = {{PARE}: Part Attention Regressor for {3D} Human Body Estimation},
+  author = {Kocabas, Muhammed and Huang, Chun-Hao P. and Hilliges, Otmar and Black, Michael J.},
+  booktitle = {Proc. International Conference on Computer Vision (ICCV)},
+  pages = {11127--11137},
+  month = oct,
+  year = {2021},
+  doi = {},
+  month_numeric = {10}
+}
+```
